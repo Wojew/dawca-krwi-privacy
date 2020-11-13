@@ -1,0 +1,10 @@
+POLITYKA PRYWATNOŚCI APLIKACJI MOBILNEJ "Dawca kwi"
+
+Niniejsza aplikacja jest świadczona przez Wojew Wojciech Zahradnik bezpłatnie i jest przeznaczona do użytku w takiej postaci, w jakiej jest.
+
+1. Aplikacja działa offline - nie wysyła, ani nie pobiera danych z żadnej bazy krwiodawców ani innej bazy danych. Służy ona jako narzędzie krwiodawcy do samodzielnego notowania donacji.
+2. Wprowadzone do aplikacji dane można dobrowolnie dodawać, edytować i usuwać, bądź robić kopie zapasowe.
+3. Aplikacja korzysta z usług stron trzecich, które mogą zbierać informacje służące do identyfikacji użytkownika. Aplikacja pokazuje reklamy Google Admob, dla których polityka prywatności opisana jest na stronie: https://support.google.com/admob/answer/6128543?hl=pl. Jeśli zdecydujesz się skorzystać z aplikacji, zgadzasz się na zbieranie i wykorzystywanie informacji w związku z niniejszą polityką.
+4. W przypadku braku zgody na niniejszą politykę prywatności nie instaluj aplikacji bądź ją odinstaluj.
+
+Polityka prywatności z dnia 13.10.2020
